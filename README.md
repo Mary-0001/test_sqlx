@@ -6,6 +6,8 @@ In this article, you'll learn how to build a CRUD API in Rust using SQLX, Actix-
 
 ## Topics Covered
 
+
+
 - Run the Rust SQLX Project Locally
 - Run the Rust SQLX API with a React.js App
 - Setup the Rust Project
